@@ -57,7 +57,7 @@
 
 新增的API
 
-![API](https://github.com/zhaoxiaobao/WWDC2016/blob/master/images/newapi.png)
+![API](https://github.com/zhaoxiaobao/WWDC16/blob/master/images/newapi.png)
 
 
 
